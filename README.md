@@ -1,6 +1,6 @@
 # NLP Exercise
 
-The purpose of the exercise is to preprocess texts in Hebrew and English
+The purpose of the exercise is to preprocess texts in Hebrew and English.
 
 Libraries for comparison for syntactic analysis:
 - stanza
